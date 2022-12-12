@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c1d7494e.css",
+    "main.css": "/static/css/main.2bcbb936.css",
     "main.js": "/static/js/main.a8a600de.js",
     "static/js/787.51a6753f.chunk.js": "/static/js/787.51a6753f.chunk.js",
     "static/media/dépliant bh guinée.jpg": "/static/media/dépliant bh guinée.13f46eb3bc1cdc5683f2.jpg",
@@ -23,12 +23,12 @@
     "static/media/equipt.jpg": "/static/media/equipt.4d1e5eb27c7b6720f617.jpg",
     "static/media/usd.png": "/static/media/usd.dc5e39001219d677c9a7.png",
     "index.html": "/index.html",
-    "main.c1d7494e.css.map": "/static/css/main.c1d7494e.css.map",
+    "main.2bcbb936.css.map": "/static/css/main.2bcbb936.css.map",
     "main.a8a600de.js.map": "/static/js/main.a8a600de.js.map",
     "787.51a6753f.chunk.js.map": "/static/js/787.51a6753f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1d7494e.css",
+    "static/css/main.2bcbb936.css",
     "static/js/main.a8a600de.js"
   ]
 }
