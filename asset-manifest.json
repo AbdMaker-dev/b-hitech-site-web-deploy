@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1d7494e.css",
+    "main.js": "/static/js/main.a8a600de.js",
+    "static/js/787.51a6753f.chunk.js": "/static/js/787.51a6753f.chunk.js",
+    "static/media/dépliant bh guinée.jpg": "/static/media/dépliant bh guinée.13f46eb3bc1cdc5683f2.jpg",
+    "static/media/dépliant bh guinée verso.jpg": "/static/media/dépliant bh guinée verso.6dd76c5fbaa58856f81f.jpg",
+    "static/media/net.jpg": "/static/media/net.2100ea9789effbd4a3d8.jpg",
+    "static/media/web.jpg": "/static/media/web.2bad6d715d7e40f63640.jpg",
+    "static/media/secu.jpg": "/static/media/secu.7a18bce792a7e7785424.jpg",
+    "static/media/cloud.jpg": "/static/media/cloud.a7f5e602d1f70f3974de.jpg",
+    "static/media/secuinf.jpg": "/static/media/secuinf.e3fd8636826dd05988cb.jpg",
+    "static/media/cloudcomp.jpg": "/static/media/cloudcomp.29aaace9095437349758.jpg",
+    "static/media/formation.jpg": "/static/media/formation.7b4974540682ecc117a0.jpg",
+    "static/media/interobjet.jpg": "/static/media/interobjet.7311779ddf3ff4e655ab.jpg",
+    "static/media/b-htech2.jpeg": "/static/media/b-htech2.f9aaa9d8ad19f5e6cdb1.jpeg",
+    "static/media/b-htech1.jpeg": "/static/media/b-htech1.b0d10449d205a7f55006.jpeg",
+    "static/media/ia.jpg": "/static/media/ia.6b1b93f488665c632226.jpg",
+    "static/media/reseau.jpg": "/static/media/reseau.283bf151f0510498834e.jpg",
+    "static/media/logo.jpeg": "/static/media/logo.48fdd10dc394a33a5318.jpeg",
+    "static/media/webdiv.jpg": "/static/media/webdiv.750337e907121ca543f6.jpg",
+    "static/media/comdig2.jpg": "/static/media/comdig2.5b42dbd819dc177aa70f.jpg",
+    "static/media/equipt.jpg": "/static/media/equipt.4d1e5eb27c7b6720f617.jpg",
+    "static/media/usd.png": "/static/media/usd.dc5e39001219d677c9a7.png",
+    "index.html": "/index.html",
+    "main.c1d7494e.css.map": "/static/css/main.c1d7494e.css.map",
+    "main.a8a600de.js.map": "/static/js/main.a8a600de.js.map",
+    "787.51a6753f.chunk.js.map": "/static/js/787.51a6753f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1d7494e.css",
+    "static/js/main.a8a600de.js"
+  ]
+}
